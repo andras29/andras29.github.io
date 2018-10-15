@@ -28,6 +28,8 @@ function rezolvare()
 
 function afisare()
 {
+   document.getElementById("id_x1").innerHTML=solutii,x1,re+"+"+solutii.x1.im+"i";
+   document.getElementById
 }
 
 function rezolva(){
