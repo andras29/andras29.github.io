@@ -22,3 +22,6 @@ function rezolva()
   }
   
   //scriere
+document.getElementById("id_x1").innerHTML=x1_re+"+"+x1_im+"i";
+  document.getElementById("id_x2").innerHTML=x1_re+"+"+x1_im+"i";
+}
